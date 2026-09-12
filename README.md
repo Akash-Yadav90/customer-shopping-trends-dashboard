@@ -1,4 +1,7 @@
 # Customer Shopping Trends Dashboard
+## 🚀 Live Dashboard
+
+[View Live Dashboard](https://customer-shopping-trends-dashboard-1.onrender.com/)
 
 ## Project Overview
 
