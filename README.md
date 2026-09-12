@@ -42,7 +42,7 @@ The dashboard contains six different visualization types:
 ## Interactive Features
 
 The dashboard provides:
-
+https://customer-shopping-trends-dashboard-1.onrender.com
 - Category filtering
 - Gender filtering
 - Subscription filtering
